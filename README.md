@@ -1,7 +1,7 @@
-## Fine-Tuning-T5-Question-generation
+# Fine-Tuning-T5-Question-generation
 Fine tuning T5-small model for context based Question generation
 
-# HuggingFace-Fine-tuning-Question Generation.py
+## HuggingFace-Fine-tuning-Question Generation.py
 ____________________________________________
 
 This codes depicts Fine tuning of T5 model for question genration task
@@ -24,7 +24,7 @@ Hugging Face link: 'https://huggingface.co/BhuvanGowda/t5-small-finetuned-Questi
 ______________________________________________________________________________________________________________________________________
 
 
-# Question Generation.py
+## Question Generation.py
 ______________________
 
 This codes depicts Fine tuning of T5 model for question generation task
